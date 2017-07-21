@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/pha1/phrun/lib/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/charts4j-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/org.json-20120521.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
